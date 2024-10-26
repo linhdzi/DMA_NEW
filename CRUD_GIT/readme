@@ -1,0 +1,14 @@
+Lam xong model 
+
+//add-migration initialcreate
+
+//update-database 
+
+
+react
+npm install -g yarn
+npm install -g pnpm 
+
+pnpm create vite
+
+pnpm i

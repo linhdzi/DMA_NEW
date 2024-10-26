@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A984E93D-98C5-4C36-BF86-65835404FD03}|Solution Items{A984E93D-98C5-4C36-BF86-65835404FD03}|C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\readme||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A984E93D-98C5-4C36-BF86-65835404FD03}|Solution Items{A984E93D-98C5-4C36-BF86-65835404FD03}|solutionrelative:readme||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|c:\\users\\admin\\desktop\\baithithu\\crud_git\\crud_git\\controllers\\nursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|solutionrelative:crud_git\\controllers\\nursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|c:\\users\\admin\\desktop\\baithithu\\crud_git\\crud_git\\controllers\\wardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|solutionrelative:crud_git\\controllers\\wardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|c:\\users\\admin\\desktop\\baithithu\\crud_git\\crud_git\\migrations\\20241026084532_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|solutionrelative:crud_git\\migrations\\20241026084532_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|c:\\users\\admin\\desktop\\baithithu\\crud_git\\crud_git\\migrations\\crud_gitcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|solutionrelative:crud_git\\migrations\\crud_gitcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|c:\\users\\admin\\desktop\\baithithu\\crud_git\\crud_git\\migrations\\20241026084532_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|solutionrelative:crud_git\\migrations\\20241026084532_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|c:\\users\\admin\\desktop\\baithithu\\crud_git\\crud_git\\data\\crud_gitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|solutionrelative:crud_git\\data\\crud_gitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|c:\\users\\admin\\desktop\\baithithu\\crud_git\\crud_git\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|solutionrelative:crud_git\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|c:\\users\\admin\\desktop\\baithithu\\crud_git\\crud_git\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|solutionrelative:crud_git\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|c:\\users\\admin\\desktop\\baithithu\\crud_git\\crud_git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|solutionrelative:crud_git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|c:\\users\\admin\\desktop\\baithithu\\crud_git\\crud_git\\models\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|solutionrelative:crud_git\\models\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|c:\\users\\admin\\desktop\\baithithu\\crud_git\\crud_git\\models\\ward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CFB5A-C2CA-4FC8-816D-FDE07525AA40}|CRUD_GIT\\CRUD_GIT.csproj|solutionrelative:crud_git\\models\\ward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "readme",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\readme",
+              "RelativeDocumentMoniker": "readme",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\readme",
+              "RelativeToolTip": "readme",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T09:06:55.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241026084532_initialcreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Migrations\\20241026084532_initialcreate.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_GIT\\Migrations\\20241026084532_initialcreate.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Migrations\\20241026084532_initialcreate.Designer.cs",
+              "RelativeToolTip": "CRUD_GIT\\Migrations\\20241026084532_initialcreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:05:42.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CRUD_GITContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Data\\CRUD_GITContext.cs",
+              "RelativeDocumentMoniker": "CRUD_GIT\\Data\\CRUD_GITContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Data\\CRUD_GITContext.cs",
+              "RelativeToolTip": "CRUD_GIT\\Data\\CRUD_GITContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:42:48.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NursesController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Controllers\\NursesController.cs",
+              "RelativeDocumentMoniker": "CRUD_GIT\\Controllers\\NursesController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Controllers\\NursesController.cs",
+              "RelativeToolTip": "CRUD_GIT\\Controllers\\NursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:42:24.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD_GIT\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\appsettings.json",
+              "RelativeToolTip": "CRUD_GIT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T08:43:52.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WardsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Controllers\\WardsController.cs",
+              "RelativeDocumentMoniker": "CRUD_GIT\\Controllers\\WardsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Controllers\\WardsController.cs",
+              "RelativeToolTip": "CRUD_GIT\\Controllers\\WardsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:41:19.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241026084532_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Migrations\\20241026084532_initialcreate.cs",
+              "RelativeDocumentMoniker": "CRUD_GIT\\Migrations\\20241026084532_initialcreate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Migrations\\20241026084532_initialcreate.cs",
+              "RelativeToolTip": "CRUD_GIT\\Migrations\\20241026084532_initialcreate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:45:32.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRUD_GITContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Migrations\\CRUD_GITContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CRUD_GIT\\Migrations\\CRUD_GITContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Migrations\\CRUD_GITContextModelSnapshot.cs",
+              "RelativeToolTip": "CRUD_GIT\\Migrations\\CRUD_GITContextModelSnapshot.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:54:32.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Dockerfile",
+              "RelativeDocumentMoniker": "CRUD_GIT\\Dockerfile",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Dockerfile",
+              "RelativeToolTip": "CRUD_GIT\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T08:43:51.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD_GIT\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Program.cs",
+              "RelativeToolTip": "CRUD_GIT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:43:40.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Nurse.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Models\\Nurse.cs",
+              "RelativeDocumentMoniker": "CRUD_GIT\\Models\\Nurse.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Models\\Nurse.cs",
+              "RelativeToolTip": "CRUD_GIT\\Models\\Nurse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:37:43.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ward.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Models\\Ward.cs",
+              "RelativeDocumentMoniker": "CRUD_GIT\\Models\\Ward.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BAITHITHU\\CRUD_GIT\\CRUD_GIT\\Models\\Ward.cs",
+              "RelativeToolTip": "CRUD_GIT\\Models\\Ward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:36:13.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
